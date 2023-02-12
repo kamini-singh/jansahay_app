@@ -27,8 +27,11 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Team 
 Kamini Singh [@kamini-singh](https://github.com/kamini-singh)
+
 Kaavya Saxena [@Kaavya-Saxena](http://github.com/Kaavya-Saxena)
+
 Gunjan Yadav [@GunjanYdv](https://github.com/GunjanYdv)
+
 Tanisha Singhal [@tanisha1610](http://github.com/tanisha1610)
 
 
