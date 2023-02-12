@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994310286432",
+    "project_id": "jansahay-60265",
+    "storage_bucket": "jansahay-60265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994310286432:android:f449e6174f3888e1a4e705",
+        "android_client_info": {
+          "package_name": "com.example.jansahay_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994310286432-35euhjg6hjj9h150sms305in4q4ecbn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHFI9AzryA8SQIBq9OvCyX3vBEXNDPMWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994310286432-35euhjg6hjj9h150sms305in4q4ecbn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
