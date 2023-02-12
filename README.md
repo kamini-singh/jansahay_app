@@ -29,8 +29,8 @@ Gunjan Yadav [@GunjanYdv](https://github.com/GunjanYdv)
 Tanisha Singhal [@tanisha1610](http://github.com/tanisha1610)
 
 ## Snapshots of the App
-<img width="944" alt="img1" src="https://user-images.githubusercontent.com/79650635/218324893-7c188802-b70f-40db-b8f1-a865ac960377.jpeg">
-<img width="944" alt="img1" src="https://user-images.githubusercontent.com/79650635/218324898-43e25d97-e0ff-4fff-8168-fdf215e22082.jpeg">
-<img width="944" alt="img1" src="https://user-images.githubusercontent.com/79650635/218324900-f6b73788-2100-448e-bd92-7289ddd3a84d.jpeg">
-<img width="944" alt="img1" src="https://user-images.githubusercontent.com/79650635/218324885-d0442257-799f-49d4-8c76-c959ed53f86b.jpeg">
+<img width="144" alt="img1" src="https://user-images.githubusercontent.com/79650635/218324893-7c188802-b70f-40db-b8f1-a865ac960377.jpeg">
+<img width="144" alt="img2" src="https://user-images.githubusercontent.com/79650635/218324898-43e25d97-e0ff-4fff-8168-fdf215e22082.jpeg">
+<img width="144" alt="img3" src="https://user-images.githubusercontent.com/79650635/218324900-f6b73788-2100-448e-bd92-7289ddd3a84d.jpeg">
+<img width="144" alt="img4" src="https://user-images.githubusercontent.com/79650635/218324885-d0442257-799f-49d4-8c76-c959ed53f86b.jpeg">
 
