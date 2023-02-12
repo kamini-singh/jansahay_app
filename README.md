@@ -24,9 +24,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Team 
 Kamini Singh [@kamini-singh](https://github.com/kamini-singh)
-
 Kaavya Saxena [@Kaavya-Saxena](http://github.com/Kaavya-Saxena)
-
 Gunjan Yadav [@GunjanYdv](https://github.com/GunjanYdv)
-
 Tanisha Singhal [@tanisha1610](http://github.com/tanisha1610)
+
+## Snapshots of the App
+![WhatsApp Image 2023-02-12 at 10 07 36 PM (1)](https://user-images.githubusercontent.com/79650635/218324893-7c188802-b70f-40db-b8f1-a865ac960377.jpeg)
+![WhatsApp Image 2023-02-12 at 10 07 37 PM](https://user-images.githubusercontent.com/79650635/218324898-43e25d97-e0ff-4fff-8168-fdf215e22082.jpeg)
+![WhatsApp Image 2023-02-12 at 10 07 37 PM (1)](https://user-images.githubusercontent.com/79650635/218324900-f6b73788-2100-448e-bd92-7289ddd3a84d.jpeg)
+![WhatsApp Image 2023-02-12 at 10 07 37 PM (2)](https://user-images.githubusercontent.com/79650635/218324885-d0442257-799f-49d4-8c76-c959ed53f86b.jpeg)
