@@ -1,16 +1,29 @@
-# jansahay_app
+# JanSahay
+The purpose of this application is to provide a platform for citizens to report issues related to garbage, open manholes, and other similar issues in their community. The complaints will be collected and forwarded to the relevant government authorities for resolution.
 
-A new Flutter project.
+## Features
+- User registration and login
+- Ability to submit a complaint with a picture and description
+- User profile to view and track previous complaints
+- The app allows users to select from a list of pre-defined categories, to choose the problem & describe the nature of their complaint.
+- The users can track the status of their complaints and see if they have been resolved or not when updated by the admin.
+
+## Technical Stack
+1. Flutter - The main libraries used are Material Library and Image Picker.
+2. Firebase - The Firebase services used are Authentication and Cloud Firestore.
+3. Machine learning model- Model used for image classification.
+4. RestAPI - To integrate the model with the application.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
-
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Team 
+Kamini Singh @kamini-singh
+Kaavya Saxena @Kaavya-Saxena
+Gunjan Yadav @GunjanYdv
+Tanisha Singhal  @tanisha1610
